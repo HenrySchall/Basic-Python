@@ -1,22 +1,5 @@
 ## Introdução
-
-- Download Stata: https://www.dropbox.com/scl/fo/8rxhtmsfzg14nw3b8sfru/h?rlkey=6pxmanwu7btncfkv9sngffro3&dl=0
-- Download R: https://cran.r-project.org/bin/windows/base/
 - Download Python: https://www.python.org/downloads/
-
-### Configuração R para uso no Visual Studio Code 
-
-```r
-#Rodar no terminal do R
-install.packages("languageserver")
-install.packages("httpgd")
-```
-```r
-#Preferences (Open User Settings (JSON)
-"editor.quickSuggestions.other": false
-r.lsp.diagnostics": false
-"r.plot.useHttpgd": true
-```
 
 ### Estatística
 A estatística é a ciência que objetiva coletar, organizar, analisar e interpretar dados. Ela é dividida em 3 partes: **Descritiva, Inferencial e Probabilística.**
