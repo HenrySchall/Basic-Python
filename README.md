@@ -1,6 +1,8 @@
 ## Introdução
 - Download Python: https://www.python.org/downloads/
 
+> Python é uma linguagem de programação criada por Guido van Rossum, um programador holandês, em 1991. Guido van Rossum criou a linguagem com o objetivo de desenvolver uma programação simples, intuitiva e fácil de aprender, sem sacrificar a capacidade de resolver problemas complexos. O nome "Python" foi inspirado no grupo de comédia britânico "Monty Python", do qual van Rossum era fã.
+
 ### Estatística
 A estatística é a ciência que objetiva coletar, organizar, analisar e interpretar dados. Ela é dividida em 3 partes: **Descritiva, Inferencial e Probabilística.**
 
