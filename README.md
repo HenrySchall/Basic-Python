@@ -1,6 +1,7 @@
 ## Introdução
 - Download Python: https://www.python.org/downloads/
 - Comunidade: https://www.python.org/community/forums/
+- Leitura: https://medium.com/@henrique.schall
 
 > Python é uma linguagem de programação criada por Guido van Rossum, um programador holandês, em 1991. Guido van Rossum criou a linguagem com o objetivo de desenvolver uma programação simples, intuitiva e fácil de aprender, sem sacrificar a capacidade de resolver problemas complexos. O nome "Python" foi inspirado no grupo de comédia britânico "Monty Python", do qual van Rossum era fã.
 
@@ -13,6 +14,3 @@ Qualitativos (atributos não numéricos).
 Quantitativos (atributos numéricas).
 - Discreto: valores finitos ou enumeráveis (quantidade de pessoas numa sala, número de carros em um estacionamento…)
 - Contínuo: infinitos valores possíveis num intervalo (renda, tempo, altura…).
-
-### Revisão Estatatística e Econometrica
-- https://medium.com/@henrique.schall/os-principais-t%C3%B3picos-para-uma-an%C3%A1lise-econ%C3%B4mica-de-dados-consistente-3ace08e7776f
