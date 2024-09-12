@@ -170,3 +170,8 @@ dataset.drop(labels=['RS Wege'], axis=1, inplace=True)
 
 dataset
 dataset.describe()
+
+
+# Resertar indice 
+dados2 = dados2.reset_index(drop=True) # drop é para excluir o índice anterior
+dados2
